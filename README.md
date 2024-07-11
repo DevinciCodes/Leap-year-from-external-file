@@ -1,6 +1,6 @@
 # Leap Year Program
 ## C++ Program to take an external file that has a list of years, and determine if its a leap year or not.
-#### 1. Run program by typing ./CLA4 < years.dat in terminal
+#### 1. Run program by typing ./CLA4_A < years.dat in terminal
 #### 2. Output should be yes or no if its a leap year or not.
 ##### Example Run
 
